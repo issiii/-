@@ -1,0 +1,201 @@
+.wrapper {
+    max-width: 945px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+body {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    height: 87px;
+    border-bottom: 1px solid #0400ff;
+}
+
+ul {
+    padding: 0;
+}
+
+.menu1 {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding-top: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+}
+
+a:hover {
+    color: rgb(170, 0, 255);
+}
+
+.main {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.text {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.main1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text3 {
+    writing-mode: vertical-lr;
+}
+
+span {
+    color: rgb(255, 0, 0);
+}
+
+.ms {
+    text-align: center;
+    padding: 100px;
+    font: 15px;
+    background-color: rgba(111, 0, 255, 0.404)
+}
+
+.dd {
+    font-size: 30px;
+    font-weight: 550;
+    padding: 25px;
+}
+
+.ddd {
+    padding: 15px;
+}
+
+.dddd {
+    padding: 15px;
+}
+
+.photo {
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.kd {
+    text-align: center;
+    padding-top: 80px;
+
+}
+
+.bb {
+    font-size: 30px;
+    font-weight: 550;
+    padding: 25px
+}
+
+.skills {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 90px;
+
+}
+
+.Portfolio {
+    text-align: center;
+    background-color: rgba(55, 50, 50, 0.13);
+    margin-top: 100px;
+    padding-top: 112px;
+}
+
+.img2 {
+    padding-top: 47px;
+}
+
+.img3 {
+    padding-top: 50px;
+}
+
+.img4 {
+    padding-top: 50px;
+}
+
+.text_Portfolio {
+    padding: 44px;
+    text-decoration: underline;
+    font-weight: 550;
+}
+
+.text_Portfolio2 {
+    padding: 44px;
+    text-decoration: underline;
+    font-weight: 550;
+}
+
+.text_Portfolio3 {
+    padding: 44px;
+    text-decoration: underline;
+    font-weight: 550;
+}
+
+.Contacts {
+    padding-top: 90px;
+    text-align: center;
+}
+
+.text_contacts {
+    text-align: center;
+
+}
+
+.button {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: 700;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    padding: 16px 60px;
+    display: inline-block;
+    margin: 0 15px;
+    border-color: black;
+    background: black;
+
+}
+
+.button:hover {
+    color: fuchsia;
+}
+
+.button_contacts {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.photo_contacts {
+    text-align: center;
+    padding-top: 70px;
+}
+
+.name_contacts {
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.menu_contacns {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    width: 342px;
+    padding-top: 30px;
+    padding-left: 300px;
+
+}
+.img5 {
+    background-color: rgba(55, 50, 50, 0.13);
+}
